@@ -2,6 +2,12 @@
 
 An application to read a list of books of interest, and fetch their prices from BookDepository.
 
+## Requirements
+
+This application requires Python `>= 3.6.0`.
+
+This application makes use of `requests` and `beautifulsoup4`.
+
 ## Usage
 
 ```
