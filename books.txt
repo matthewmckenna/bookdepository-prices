@@ -1,0 +1,3 @@
+Python-Testing-with-pytest/9781680502404
+Python-for-Data-Analysis-2e-Wes-McKinney/9781491957660
+Automate-Boring-Stuff-With-Python-Al-Sweigart/9781593275990
